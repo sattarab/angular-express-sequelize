@@ -5,7 +5,7 @@ A model and service for user has been used just for sake of demonstration in thi
 
 ##Directory Structure
 
-
+```
 ├── README.md
 ├── app.js
 ├── bower.json
@@ -44,6 +44,7 @@ A model and service for user has been used just for sake of demonstration in thi
 │       └── userService.js
 └── test
     └── userTestSuite.js
+```
 
 ###Installation Steps
 
