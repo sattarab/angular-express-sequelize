@@ -58,7 +58,7 @@ A model and service for user has been used just for sake of demonstration in thi
 To run the mocha tests defined under the test folder type npm test. The test assumes that there is an instance of app running in a different terminal on the same computer which the test sends the request to.(check out point 4 for details)
 ##Example App
 
-Check out an example app :angular-express-chatroom.herokuapp.com
+Check out an example app : http://angular-express-chatroom.herokuapp.com
 
 ##License
 
